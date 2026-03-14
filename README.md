@@ -1,9 +1,9 @@
 # Video Game Revenue Analysis Using SQL
 
-SQL analysis identifying top-performing video game genres and revenue-driving titles.
+SQL analysis identifying top-performing video games and revenue-driving titles.
 
 ## Overview
-Analyzed video game revenue data to determine which genres generate the most revenue and identify the games that contribute most to genre performance.
+Analyzed video game revenue data to determine which games generate the most revenue and identify the games that contribute most to genre performance.
 
 ## Workflow & Tools
 - Combined datasets using SQL INNER JOINs
